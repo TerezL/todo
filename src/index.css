@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  background-color: #9B5094;
+  color: #6A605C;
+}
+h1 {
+  color:#6A605C;
+  text-align: center;
+}
+
+.but {
+  color: #CDF7F6;
+}
+
+.App {
+  background-color: #9A94BC;
+  padding: 5rem;
+  border-radius: 7%;
+}
